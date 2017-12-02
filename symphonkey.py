@@ -4,8 +4,8 @@
 symphonkey.py: Turn keyboard strokes into a random symphony. Goes 
 really well with hackertyper.com
 
-When script is run (with sudo), keyboard events will be hooked to a f
-unction that will pick a random Hz in the range of NOTE_RANGE and play 
+When script is run (with sudo), keyboard events will be hooked to a 
+function that will pick a random Hz in the range of NOTE_RANGE and play 
 it for NOTE_LENGTH seconds. The length of time set for playing notes 
 will influence howfast one can type without experiencing notes being 
 played after one is done typing. For instance a NOTE_LENGTH of 0.5 
